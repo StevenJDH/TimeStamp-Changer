@@ -4,6 +4,8 @@ This is a GUI to easily change the timestemp on any file using native functions.
 
 https://github.com/StevenJDH/TimeStamp-Changer
 
+Changelog: https://github.com/StevenJDH/TimeStamp-Changer/wiki/Changelog
+
 ### Features
 * Drag and Drop files/folders
 * Multithreaded
