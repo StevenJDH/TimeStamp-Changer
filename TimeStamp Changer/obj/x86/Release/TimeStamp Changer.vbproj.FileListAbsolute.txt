@@ -1,0 +1,31 @@
+C:\Users\Steve\Visual Studio 2010 Projects\TimeStamp Changer\TimeStamp Changer\bin\Release\TimeStamp Changer.exe
+C:\Users\Steve\Visual Studio 2010 Projects\TimeStamp Changer\TimeStamp Changer\bin\Release\TimeStamp Changer.pdb
+C:\Users\Steve\Visual Studio 2010 Projects\TimeStamp Changer\TimeStamp Changer\bin\Release\TimeStamp Changer.xml
+C:\Users\Steve\Visual Studio 2010 Projects\TimeStamp Changer\TimeStamp Changer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Steve\Visual Studio 2010 Projects\TimeStamp Changer\TimeStamp Changer\obj\x86\Release\TimeStamp_Changer.FrmMain.resources
+C:\Users\Steve\Visual Studio 2010 Projects\TimeStamp Changer\TimeStamp Changer\obj\x86\Release\TimeStamp_Changer.Resources.resources
+C:\Users\Steve\Visual Studio 2010 Projects\TimeStamp Changer\TimeStamp Changer\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\Steve\Visual Studio 2010 Projects\TimeStamp Changer\TimeStamp Changer\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\Steve\Visual Studio 2010 Projects\TimeStamp Changer\TimeStamp Changer\obj\x86\Release\TimeStamp Changer.exe
+C:\Users\Steve\Visual Studio 2010 Projects\TimeStamp Changer\TimeStamp Changer\obj\x86\Release\TimeStamp Changer.xml
+C:\Users\Steve\Visual Studio 2010 Projects\TimeStamp Changer\TimeStamp Changer\obj\x86\Release\TimeStamp Changer.pdb
+C:\Users\Steve\Visual Studio 2010 Projects\Done\TimeStamp Changer\TimeStamp Changer\bin\Release\TimeStamp Changer.exe
+C:\Users\Steve\Visual Studio 2010 Projects\Done\TimeStamp Changer\TimeStamp Changer\bin\Release\TimeStamp Changer.pdb
+C:\Users\Steve\Visual Studio 2010 Projects\Done\TimeStamp Changer\TimeStamp Changer\bin\Release\TimeStamp Changer.xml
+C:\Users\Steve\Visual Studio 2010 Projects\Done\TimeStamp Changer\TimeStamp Changer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Steve\Visual Studio 2010 Projects\Done\TimeStamp Changer\TimeStamp Changer\obj\x86\Release\TimeStamp_Changer.FrmMain.resources
+C:\Users\Steve\Visual Studio 2010 Projects\Done\TimeStamp Changer\TimeStamp Changer\obj\x86\Release\TimeStamp_Changer.Resources.resources
+C:\Users\Steve\Visual Studio 2010 Projects\Done\TimeStamp Changer\TimeStamp Changer\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\Steve\Visual Studio 2010 Projects\Done\TimeStamp Changer\TimeStamp Changer\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\Steve\Visual Studio 2010 Projects\Done\TimeStamp Changer\TimeStamp Changer\obj\x86\Release\TimeStamp Changer.exe
+C:\Users\Steve\Visual Studio 2010 Projects\Done\TimeStamp Changer\TimeStamp Changer\obj\x86\Release\TimeStamp Changer.xml
+C:\Users\Steve\Visual Studio 2010 Projects\Done\TimeStamp Changer\TimeStamp Changer\obj\x86\Release\TimeStamp Changer.pdb
+C:\Users\steve\Desktop\TimeStamp Changer\TimeStamp Changer\obj\x86\Release\TimeStamp Changer.exe
+C:\Users\steve\Desktop\TimeStamp Changer\TimeStamp Changer\obj\x86\Release\TimeStamp Changer.xml
+C:\Users\steve\Desktop\TimeStamp Changer\TimeStamp Changer\obj\x86\Release\TimeStamp Changer.pdb
+C:\Users\steve\Desktop\TimeStamp Changer\TimeStamp Changer\bin\Release\TimeStamp Changer.exe
+C:\Users\steve\Desktop\TimeStamp Changer\TimeStamp Changer\bin\Release\TimeStamp Changer.pdb
+C:\Users\steve\Desktop\TimeStamp Changer\TimeStamp Changer\bin\Release\TimeStamp Changer.xml
+C:\Users\steve\Desktop\TimeStamp Changer\TimeStamp Changer\obj\x86\Release\TimeStamp_Changer.FrmMain.resources
+C:\Users\steve\Desktop\TimeStamp Changer\TimeStamp Changer\obj\x86\Release\TimeStamp_Changer.Resources.resources
+C:\Users\steve\Desktop\TimeStamp Changer\TimeStamp Changer\obj\x86\Release\TimeStamp Changer.vbproj.GenerateResource.Cache
