@@ -8,7 +8,7 @@ https://github.com/StevenJDH/TimeStamp-Changer
 
 Changelog: https://github.com/StevenJDH/TimeStamp-Changer/wiki/Changelog
 
-### Features
+## Features
 * Drag and Drop files/folders
 * Multithreaded
 * Batch processing support
