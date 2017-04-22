@@ -19,4 +19,15 @@ This is just one of many tools and applications I’ve created over the years fo
 Many commonly asked questions are answered in the FAQ:
 https://github.com/StevenJDH/TimeStamp-Changer/wiki/FAQ
 
+## Want to show your support?
+
+PayPal:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.paypal.me/stevenjdh <br />
+Bitcoin:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1NM5oVRnc8UKhCPfADDYWUky3gFwy2npaV <br />
+Litecoin:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lc9SpfipAKCdAGXQ7oft8n5YAThTRepNNR <br />
+Ethereum:&nbsp;&nbsp;0xa496494fb25c62b5cb3aebc58e4c35c173590904 <br />
+Dash:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Xnpe8kkRxg13oe2qkGibC5z97DVk2yV9Zn <br />
+ZCash:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;t1Nxj7U4QD13jn44qdF2A4JJRXXhSjjQy4v <br />
+Ripple:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rLHzPsX6oXkzU2qL12kHCH8G8cnZv1rBJh ( Destination Tag: 2357564055 ) <br />
+Monero:&nbsp;&nbsp;&nbsp;4GdoN7NCTi8a5gZug7PrwZNKjvHFmKeV11L6pNJPgj5QNEHsN6eeX3DaAQFwZ1ufD4LYCZKArktt113W7QjWvQ7CWDXrwM8yCGgEdhV3Wt
+
 // Steven JDH ("StevenJDH" on GitHub)
