@@ -23,13 +23,17 @@ https://github.com/StevenJDH/TimeStamp-Changer/wiki/FAQ
 
 ## Want to show your support?
 
-PayPal:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.paypal.me/stevenjdh <br />
-Bitcoin:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1NM5oVRnc8UKhCPfADDYWUky3gFwy2npaV <br />
-Litecoin:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lc9SpfipAKCdAGXQ7oft8n5YAThTRepNNR <br />
-Ethereum:&nbsp;&nbsp;0xa496494fb25c62b5cb3aebc58e4c35c173590904 <br />
-Dash:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Xnpe8kkRxg13oe2qkGibC5z97DVk2yV9Zn <br />
-ZCash:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;t1Nxj7U4QD13jn44qdF2A4JJRXXhSjjQy4v <br />
-Ripple:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rLHzPsX6oXkzU2qL12kHCH8G8cnZv1rBJh ( Destination Tag: 2357564055 ) <br />
-Monero:&nbsp;&nbsp;&nbsp;4GdoN7NCTi8a5gZug7PrwZNKjvHFmKeV11L6pNJPgj5QNEHsN6eeX3DaAQFwZ1ufD4LYCZKArktt113W7QjWvQ7CWDXrwM8yCGgEdhV3Wt
+Method | Address
+------------ | -------------
+PayPal: | https://www.paypal.me/stevenjdh
+Bitcoin: | 1Mxc8sLaV8V7rAwZnKi33baSHT2DPWtwNa
+Litecoin: | LL3uEkJpcGiTGyca2Dg1gcp8aTJoawVVgS
+Ethereum: | 0xa62b53c1d49f9C481e20E5675fbffDab2Fcda82E
+DASH: | Xw5bDL93fFNHe9FAGHV4hjoGfDpfwsqAAj
+Zcash: | t1a2Kr3jFv8WksgPBcMZFwiYM8Hn5QCMAs5
+PIVX:  | DQq2qeny1TveZDcZFWwQVGdKchFGtzeieU
+Ripple: | rLHzPsX6oXkzU2qL12kHCH8G8cnZv1rBJh<br />Destination Tag: 2357564055
+Monero: | 4GdoN7NCTi8a5gZug7PrwZNKjvHFmKeV11L6pNJPgj5QNEHsN6eeX3DaAQFwZ1ufD4LYCZKArktt113W7QjWvQ7CWDXrwM8yCGgEdhV3Wt
+
 
 // Steven JDH ("StevenJDH" on GitHub)
