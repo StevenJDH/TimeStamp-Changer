@@ -29,7 +29,7 @@ PayPal: | https://www.paypal.me/stevenjdh
 Bitcoin: | 1Mxc8sLaV8V7rAwZnKi33baSHT2DPWtwNa
 Litecoin: | LL3uEkJpcGiTGyca2Dg1gcp8aTJoawVVgS
 Ethereum: | 0xa62b53c1d49f9C481e20E5675fbffDab2Fcda82E
-DASH: | Xw5bDL93fFNHe9FAGHV4hjoGfDpfwsqAAj
+Dash: | Xw5bDL93fFNHe9FAGHV4hjoGfDpfwsqAAj
 Zcash: | t1a2Kr3jFv8WksgPBcMZFwiYM8Hn5QCMAs5
 PIVX:  | DQq2qeny1TveZDcZFWwQVGdKchFGtzeieU
 Ripple: | rLHzPsX6oXkzU2qL12kHCH8G8cnZv1rBJh<br />Destination Tag: 2357564055
