@@ -22,7 +22,6 @@ Many commonly asked questions are answered in the FAQ:
 https://github.com/StevenJDH/TimeStamp-Changer/wiki/FAQ
 
 ## Want to show your support?
-
 Method | Address
 ------------ | -------------
 PayPal: | https://www.paypal.me/stevenjdh
