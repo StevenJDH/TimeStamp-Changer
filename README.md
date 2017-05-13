@@ -4,7 +4,7 @@
 
 This is a GUI to easily change the timestemp on any file using native functions. I was prompted to build this to see if it was possible using managed code rather than the more common method of using Windows APIs, which could break in the future.
 
-https://github.com/StevenJDH/TimeStamp-Changer
+Releases: https://github.com/StevenJDH/TimeStamp-Changer/releases
 
 Changelog: https://github.com/StevenJDH/TimeStamp-Changer/wiki/Changelog
 
