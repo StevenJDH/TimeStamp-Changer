@@ -29,7 +29,7 @@ Method | Address
 ------------ | -------------
 PayPal: | https://www.paypal.me/stevenjdh
 Bitcoin: | 1Mxc8sLaV8V7rAwZnKi33baSHT2DPWtwNa
-Litecoin: | LL3uEkJpcGiTGyca2Dg1gcp8aTJoawVVgS
+Litecoin: | MAJtR4ccdyUQtiiBpg9PwF2AZ6Xbk5ioLm
 Ethereum: | 0xa62b53c1d49f9C481e20E5675fbffDab2Fcda82E
 Dash: | Xw5bDL93fFNHe9FAGHV4hjoGfDpfwsqAAj
 Zcash: | t1a2Kr3jFv8WksgPBcMZFwiYM8Hn5QCMAs5
